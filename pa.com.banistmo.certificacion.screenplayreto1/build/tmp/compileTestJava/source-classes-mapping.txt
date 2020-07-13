@@ -1,0 +1,4 @@
+pa/com/banistmo/certificacion/screenplayreto1/stepdefinitions/AutomationDemoSiteStepDefinitions.java
+ pa.com.banistmo.certificacion.screenplayreto1.stepdefinitions.AutomationDemoSiteStepDefinitions
+pa/com/banistmo/certificacion/screenplayreto1/runners/RunnerTags.java
+ pa.com.banistmo.certificacion.screenplayreto1.runners.RunnerTags

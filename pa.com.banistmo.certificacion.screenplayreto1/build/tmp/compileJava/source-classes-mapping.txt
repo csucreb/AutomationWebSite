@@ -1,0 +1,10 @@
+pa/com/banistmo/certificacion/screenplayreto1/tasks/RegisterInformation.java
+ pa.com.banistmo.certificacion.screenplayreto1.tasks.RegisterInformation
+pa/com/banistmo/certificacion/screenplayreto1/tasks/OpenUp.java
+ pa.com.banistmo.certificacion.screenplayreto1.tasks.OpenUp
+pa/com/banistmo/certificacion/screenplayreto1/userinterface/RegistrationInformationUserInterface.java
+ pa.com.banistmo.certificacion.screenplayreto1.userinterface.RegistrationInformationUserInterface
+pa/com/banistmo/certificacion/screenplayreto1/model/RegistrationDemoSiteData.java
+ pa.com.banistmo.certificacion.screenplayreto1.model.RegistrationDemoSiteData
+pa/com/banistmo/certificacion/screenplayreto1/userinterface/AutomationDemoSiteUserInterface.java
+ pa.com.banistmo.certificacion.screenplayreto1.userinterface.AutomationDemoSiteUserInterface
