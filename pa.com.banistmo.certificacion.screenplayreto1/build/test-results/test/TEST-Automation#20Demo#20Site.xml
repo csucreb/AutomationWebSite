@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="Automation Demo Site" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-07-13T22:13:50" hostname="L507F7L2CHJTRC2" time="49.259">
+<testsuite name="Automation Demo Site" tests="1" skipped="0" failures="1" errors="0" timestamp="2020-07-13T22:40:49" hostname="L507F7L2CHJTRC2" time="44.022">
   <properties/>
-  <testcase name="Register on the Automation Demo Site" classname="Automation Demo Site" time="49.259">
+  <testcase name="Register on the Automation Demo Site" classname="Automation Demo Site" time="44.022">
     <failure message="java.lang.AssertionError: Expected answer&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">java.lang.AssertionError: Expected answer
 Expected: is &lt;true&gt;
      but: was &lt;false&gt;
@@ -13,14 +13,14 @@ Expected: is &lt;true&gt;
 </failure>
   </testcase>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[jul 13, 2020 5:13:51 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[jul 13, 2020 5:40:50 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, --args -..., goog:chromeOptions: {args: [--start-maximized, --args -disable-extensions], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 78.0.3904.105 (60e2d8774a8151efa6a00b1f358371b1e0e07ee2-refs/branch-heads/3904@{#877}) on port 22557
+Starting ChromeDriver 78.0.3904.105 (60e2d8774a8151efa6a00b1f358371b1e0e07ee2-refs/branch-heads/3904@{#877}) on port 22248
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-jul 13, 2020 5:14:01 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+jul 13, 2020 5:40:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - 
            __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  

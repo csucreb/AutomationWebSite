@@ -7,7 +7,7 @@
 
 1 Scenarios (?[31m1 failed?[0m)
 3 Steps (?[31m1 failed?[0m, ?[32m2 passed?[0m)
-0m51.303s
+0m44.647s
 
 java.lang.AssertionError: Expected answer
 Expected: is <true>

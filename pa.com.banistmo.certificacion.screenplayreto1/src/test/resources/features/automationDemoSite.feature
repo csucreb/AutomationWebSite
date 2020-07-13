@@ -16,4 +16,4 @@
     Then she verifies that the screen load the text <textVerify>
     Examples:
       |firstName   |lastName  | file                                |address      |emailAddress         |phone       |gender   |hobby   |language   |skill   |country     |sCountry   |birthYear   |birthMonth    |birthDay   |password    |confirmPassword | textVerify
-      |Claudia     |Barrios   |C:\Users\csucre\Pictures\usuario.png |CumbreAzul   |cbarrios2@gmail.com  |5076345784  |FeMale   |Movies  |Portuguese |C       |Argentina   |Japan      |1993        |July          |10         |Dorian19&   |Dorian19&       |- Double Click on Edit Icon to EDIT the Table Row.
+      |Claudia     |Barrios   |C:\Users\csucre\Pictures\usuario.png |CumbreAzul   |cbarrios3@gmail.com  |5076345784  |FeMale   |Movies  |Portuguese |C       |Argentina   |Japan      |1993        |July          |10         |Dorian19&   |Dorian19&       |- Double Click on Edit Icon to EDIT the Table Row.

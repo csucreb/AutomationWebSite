@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Automation Demo Site" skipped="0" tests="1" time="50.67" timestamp="2020-07-13 05:13:48"><testcase name="Register on the Automation Demo Site"><failure message="Expected answer&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected answer
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Automation Demo Site" skipped="0" tests="1" time="44.07" timestamp="2020-07-13 05:40:49"><testcase name="Register on the Automation Demo Site"><failure message="Expected answer&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected answer
 Expected: is &lt;true&gt;
      but: was &lt;false&gt;</failure><system-err>Expected answer
 Expected: is &lt;true&gt;
