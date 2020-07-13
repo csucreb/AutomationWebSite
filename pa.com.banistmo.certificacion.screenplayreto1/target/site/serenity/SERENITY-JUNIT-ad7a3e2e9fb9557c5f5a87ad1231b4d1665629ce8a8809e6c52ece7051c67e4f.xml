@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Automation Demo Site" skipped="0" tests="1" time="44.07" timestamp="2020-07-13 05:40:49"><testcase name="Register on the Automation Demo Site"><failure message="Expected answer&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected answer
-Expected: is &lt;true&gt;
-     but: was &lt;false&gt;</failure><system-err>Expected answer
-Expected: is &lt;true&gt;
-     but: was &lt;false&gt;&#13;
-pa.com.banistmo.certificacion.screenplayreto1.stepdefinitions.AutomationDemoSiteStepDefinitions.sheVerifiesThatTheScreenLoadTheText(AutomationDemoSiteStepDefinitions.java:39)&#13;
-✽.she verifies that the screen load the text &lt;textVerify&gt;(src/test/resources/features/automationDemoSite.feature:16)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Automation Demo Site" skipped="0" tests="1" time="47.82" timestamp="2020-07-13 06:00:56"><testcase name="Register on the Automation Demo Site"/></testsuite>
